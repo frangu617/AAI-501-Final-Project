@@ -1,5 +1,7 @@
 # AAI-501 Final Team Project
 
+For Python environment setup and notebook instructions, see [ENVIRONMENT.md](ENVIRONMENT.md).
+
 ## Introduction
 
 The final team project in AAI 501 will give you an opportunity to identify an AI-driven problem, perform a hands-on project, and deliver a report and presentation as a team. To deliver a successful project, you should carefully read the final team project criteria and timelines. It is REQUIRED that you and your team use GitHub as a code hosting platform to manage version control and measure collaboration during this project. Creating and adding a [README](https://sandiego.instructure.com/courses/32490/files/4971097?wrap=1 "Instruction-README_GitHub-AAI (1\).docx") file to your GitHub repository is also necessary. You should follow and practice the [PEP 8](https://pep8.org/) – Style Guide for your Python code in the final project.
